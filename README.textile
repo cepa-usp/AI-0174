@@ -1,0 +1,3 @@
+h1. Pitagora's theorem
+
+A fun demonstration of Pitagoras' theorem on triangle 3-4-5.
