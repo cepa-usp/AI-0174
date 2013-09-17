@@ -1,3 +1,9 @@
 h1. Pitagoras' theorem
 
 A fun demonstration of Pitagoras' theorem on triangle 3-4-5.
+
+h2. Dependencies
+
+* "Java3D":http://www.oracle.com/technetwork/java/javase/tech/index-jsp-138252.html
+* "Batik toolkit":http://xmlgraphics.apache.org/batik/
+* "CEPALib":https://github.com/cepa-usp/cepalib-java
